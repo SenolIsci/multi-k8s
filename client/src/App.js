@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            KUBERNETES on GCP. Please Scroll down!
+            SERVED by GOOGLE KUBERNETES ENGINE . Please Scroll down!
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
