@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Calculate Fibonacci numbers. Please Scroll down!
+            KUBERNETES on GCP. Please Scroll down!
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
